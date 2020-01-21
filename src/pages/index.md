@@ -1,48 +1,29 @@
 ---
 templateKey: index-page
-title: Academy of Family Physicians of India, Karnataka Chapter
+title: 'Academy of Family Physicians of India, Karnataka Chapter'
 image: /img/home-jumbotron.jpg
-heading: Academy of Family Physicians of India, Karnataka Chapter
+heading: 'Academy of Family Physicians of India, Karnataka Chapter'
 subheading: A new wave of family medicine for a healthier India
 mainpitch:
   title: Why Family Medicine
-  description: >
-    Family medicine is the art of holistic healthcare that takes care of the patient
-    with 
+  description: >-
+    Family medicine is the art of holistic healthcare that takes care of the
+    patient as a whole. It is much needed in our country where the journey to
+    seek care kills more people than diseases themselves.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  AFPI's Karnataka chapter is a group of family physicians in the state of
+  Karnataka who find pride in taking care of the health needs of the community
+  at a holistic level.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/small.jpg
+      text: Compassionate
+    - image: /img/small.jpg
+      text: Caring
+    - image: /img/small.jpg
+      text: Holistic
+    - image: /img/small.jpg
+      text: Person-centered
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -50,19 +31,16 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: Family Medicine
+  description: Holistic care
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Doctors
+    image: /img/small.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Doctors
+    image: /img/small.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Doctors
+    image: /img/small.jpg
 ---
+
